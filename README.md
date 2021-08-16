@@ -1,2 +1,2 @@
 # Akira
-The Bird of the Hermes is my name. eating my wings to make me tame
+Forked from Akira/Akira 
